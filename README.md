@@ -1,12 +1,12 @@
 # NEU-Blog-Web-Application
 
 
-Implemented a Real-Time Complete Blog Application using Spring Boot 3, Spring MVC, Thymeleaf, Spring Security 6, Spring Data JPA, and MySQL database.
-Designed and implemented RESTful APIs using Spring Boot 3, Spring MVC, and Thymeleaf.
-Integrated Spring Security 6 for seamless authentication and authorization management.
-Utilized Spring Data JPA to establish a seamless communication channel between the application and MySQL database.
-Developed user-friendly interfaces using Thymeleaf.
-Employed efficient and scalable development strategies, resulting in a highly functional and responsive application.
+* Implemented a Real-Time Complete Blog Application using Spring Boot 3, Spring MVC, Thymeleaf, Spring Security 6, Spring Data JPA, and MySQL database.
+* Designed and implemented RESTful APIs using Spring Boot 3, Spring MVC, and Thymeleaf.
+* Integrated Spring Security 6 for seamless authentication and authorization management.
+* Utilized Spring Data JPA to establish a seamless communication channel between the application and MySQL database.
+* Developed user-friendly interfaces using Thymeleaf.
+* Employed efficient and scalable development strategies, resulting in a highly functional and responsive application.
 
 ##User HomePage Screen
 <img width="1680" alt="user Homepage" src="https://github.com/jatinp97/NEU-Blog-Web-Application/assets/65271264/e5445cb5-3c68-4850-a025-5ec0ec63ac43">
